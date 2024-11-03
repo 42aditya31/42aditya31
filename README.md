@@ -1,74 +1,36 @@
-<h1 align="center">🌐 Welcome to Aditya Sharma's GitHub 🌐</h1>
-<h3 align="center">Full-Stack Developer | AI Explorer | Hackathon Finalist</h3>
+<h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
+<h3 align="center">A passionate Full-Stack Developer exploring Machine Learning and Artificial Intelligence.</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/AdityaSharma?label=Followers&style=social" alt="GitHub Followers">
-  <a href="mailto:adityasharma@example.com"><img src="https://img.shields.io/badge/💌-Email%20Me-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/aditya-sharma-b20732272/"><img src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=42aditya31&label=Profile%20views&color=0e75b6&style=flat" alt="42aditya31" /> </p>
+
+- 🔭 I’m currently working on **developing innovative web applications and learning the basics of AI and ML.**
+
+- 🌱 I’m currently learning **more about machine learning, AI models, and expanding my skills in advanced JavaScript frameworks.**
+
+- 👯 I’m looking to collaborate on **exciting tech projects, especially those involving web development, AI, or creative tech solutions.**
+
+- 🤝 I’m looking for help with **with advancing my knowledge in machine learning and AI to create impactful projects.**
+
+- 👨‍💻 All of my projects are available at [👨‍💻 All of my projects are available on my GitHub profile.](👨‍💻 All of my projects are available on my GitHub profile.)
+
+- 💬 Ask me about **JavaScript, ReactJS, hackathons, or my experience freelancing and working with clients.**
+
+- 📫 How to reach me **You can email me at aditya.sharma4231.in@gmail.com or connect with me on LinkedIn.**
+
+- 📄 Know about my experiences [by checking out my LinkedIn. https://github.com/42aditya31/42aditya31/](by checking out my LinkedIn. https://github.com/42aditya31/42aditya31/)
+
+- ⚡ Fun fact **I started coding reluctantly, but now it’s my favorite thing to do! Also, hackathons taught me teamwork like nothing else.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aditya sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya sharma" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/46748561/115926852-5860af80-a47f-11eb-9c74-ea8d6a3d7acb.gif" width="300" alt="coding gif" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=42aditya31&show_icons=true&locale=en&layout=compact" alt="42aditya31" /></p>
 
-### 👋 About Me
-Hi there! I'm **Aditya**, a versatile **Full-Stack Developer** driven by a love for **technology and innovation**. I specialize in **JavaScript, ReactJS, Next.js, and Java** while diving into **Machine Learning and AI** to keep pushing boundaries. 🧑‍💻 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=42aditya31&show_icons=true&locale=en" alt="42aditya31" /></p>
 
-🏆 **Finalist at Hacker House Goa** and a passionate **hackathon leader**, I excel in creating and managing impactful tech solutions. I enjoy collaborating, designing, and developing projects that make a difference!
-
----
-
-### 🛠️ Skillset
-
-| **Programming & Development** | **Tools & Technologies**     | **Soft Skills**          |
-|-------------------------------|------------------------------|--------------------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | 👥 **Team Management**  <br> 🌐 **Team Collaboration** <br> 📈 **Problem Solving** |
-
----
-
-### 🌟 Services I Offer
-
-| Service                       | Description                                                       |
-|-------------------------------|-------------------------------------------------------------------|
-| 🖥️ **Website Development**     | Responsive, user-friendly websites with modern designs           |
-| 🎨 **Logo Making**             | Memorable logos that capture brand identity                      |
-| 📝 **Poster Making**           | Engaging poster designs for promotions and events                |
-| 🖌️ **Website Design**          | Aesthetic and functional layouts that stand out                  |
-| 📈 **Digital Marketing**       | Targeted strategies for brand growth and visibility              |
-| 🔄 **Social Media Management** | Effective strategies for content and audience engagement         |
-
----
-
-### 📚 Highlight Projects
-
-| 🌟 Project            | 💬 Description                                                                                     |
-|-----------------------|---------------------------------------------------------------------------------------------------|
-| 🎶 **Music School App**   | A web app for music academies to track classes and student progress.                            |
-| 📈 **Marketing Portfolio** | A showcase of my branding, design, and marketing projects.                                     |
-| 📘 **Educational Website** | An interactive platform designed to enhance the learning experience.                           |
-
----
-
-### 📅 Hackathons & Achievements
-
-- 🏆 **Finalist:** Hacker House Goa
-- 🛠️ **Hackathon Lead** - Guided multiple hackathons to success
-- 💡 **Freelancer** - Delivering creative, responsive solutions to clients globally
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSharma&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSharma&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🤝 Let’s Connect!
-
-<p align="center">
-  Have an idea or a project in mind? Let’s connect and make it happen! 🚀<br><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AdityaSharma.profile" alt="Visitors">
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=42aditya31&" alt="42aditya31" /></p>
