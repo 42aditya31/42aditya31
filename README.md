@@ -99,9 +99,15 @@ Hello! I'm **Aditya Sharma**, a passionate **Full-Stack Developer** blending **t
 
 </div>
 
-### 🤝 Let’s Connect!
+🌌 **Dare to Dream Bigger?**  
+I don’t just build projects; I bring visions to life. If you’re ready to turn ideas into impact and aim for breakthroughs, then let’s make it happen. 💥
 
-<p align="center">
-  Have a project or idea in mind? Let’s create something impactful together! 🚀<br><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AdityaSharma.profile" alt="Visitors">
-</p>
+If you're looking for a partner who thinks *bigger*, dreams *louder*, and makes things *unforgettable*, then look no further. Together, we won’t just create—we’ll make waves. 🌊🔥
+
+**Let’s Connect!**  
+🌐 **LinkedIn**: [linkedin.com/in/aditya-sharma-b20732272](https://linkedin.com/in/aditya-sharma-b20732272)  
+📧 **Email**: aditya.sharma4231.in@gmail.com  
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AdityaSharma.profile)  
+
+Let’s make waves they'll remember.
