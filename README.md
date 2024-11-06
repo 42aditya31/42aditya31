@@ -60,14 +60,6 @@ Hello! I'm **Aditya Sharma**, a passionate **Full-Stack Developer** blending **t
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSharma&show_icons=true&theme=tokyonight&count_private=true&hide=stars" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSharma&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
-
----
 
 ### 🤝 Let’s Connect!
 
