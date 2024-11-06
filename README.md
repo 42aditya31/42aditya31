@@ -67,7 +67,7 @@ Hello! I'm **Aditya Sharma**, a passionate **Full-Stack Developer** blending **t
   <tr style="border:none;">
     <td align="center" width="33%">
       <h2 style="color:orange; margin:5px;">
-        <img src="https://github-contribution-stats.vercel.app/api/?username=42aditya31&metric=totalContributions&theme=dark&show_icons=true&hide_border=true" alt="Total Contributions" />
+        <img src="https://github-readme-stats.vercel.app/api?username=42aditya31&count_private=true&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only" alt="Total Contributions" />
       </h2>
       <p style="margin:0; color:lightgray;">Total Contributions</p>
     </td>
@@ -79,7 +79,7 @@ Hello! I'm **Aditya Sharma**, a passionate **Full-Stack Developer** blending **t
     </td>
     <td align="center" width="33%">
       <h2 style="color:orange; margin:5px;">
-        <img src="https://github-contribution-stats.vercel.app/api/?username=42aditya31&metric=longestStreak&theme=dark&show_icons=true&hide_border=true" alt="Longest Streak" />
+        <img src="https://github-readme-stats.vercel.app/api?username=42aditya31&show_icons=true&count_private=true&theme=dark&hide_border=true&line_height=27" alt="Longest Streak" />
       </h2>
       <p style="margin:0; color:lightgray;">Longest Streak</p>
     </td>
