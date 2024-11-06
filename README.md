@@ -6,11 +6,7 @@
 <h1 align="center">🌐 Welcome to Aditya Sharma's GitHub 🌐</h1>
 <h3 align="center">Full-Stack Developer | AI Explorer | Hackathon Finalist</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/AdityaSharma?label=Followers&style=social" alt="GitHub Followers">
-  <a href="mailto:adityasharma@example.com"><img src="https://img.shields.io/badge/💌-Email%20Me-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/aditya-sharma-b20732272/"><img src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-</p>
+
 
 ---
 
