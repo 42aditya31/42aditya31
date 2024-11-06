@@ -1,5 +1,4 @@
 
-
 <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="Banner" width="800"/>
 </div>
@@ -31,8 +30,14 @@ Hello! I'm **Aditya Sharma**, a passionate **Full-Stack Developer** blending **t
 
 | **Programming Languages** | **Frameworks & Libraries** | **Tools & Technologies** | **Soft Skills** |
 |:-------------------------:|:--------------------------:|:------------------------:|:---------------:|
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | 👥 **Team Management** <br> 🌐 **Collaboration** <br> 📈 **Problem Solving** |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | 👥 **Team Management** <br> 🌐 **Collaboration** <br> 📈 **Problem Solving** <br> 🎯 **Leadership** <br> 🤝 **Teamwork** |
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Banner" width="800"/>
 </div>
 
 ---
@@ -41,9 +46,9 @@ Hello! I'm **Aditya Sharma**, a passionate **Full-Stack Developer** blending **t
 
 <p align="center">✨ Check out my latest projects and contributions:</p>
 
-- **[🎶 Music School App]** – Web app for music academies to track classes and student progress.
-- **[📈 Marketing Portfolio]** – A showcase of my work in branding, design, and marketing.
-- **[📘 Educational Website]** – Interactive platform to enhance online learning experiences.
+- **[🎶 Music School App](https://github.com/AdityaSharma/music-school-app)** – Web app for music academies to track classes and student progress.
+- **[📈 Marketing Portfolio](https://github.com/AdityaSharma/marketing-portfolio)** – A showcase of my work in branding, design, and marketing.
+- **[📘 Educational Website](https://github.com/AdityaSharma/educational-website)** – Interactive platform to enhance online learning experiences.
 
 ---
 
@@ -70,4 +75,3 @@ Hello! I'm **Aditya Sharma**, a passionate **Full-Stack Developer** blending **t
   Have a project or idea in mind? Let’s create something impactful together! 🚀<br><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AdityaSharma.profile" alt="Visitors">
 </p>
-
