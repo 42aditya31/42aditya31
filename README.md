@@ -63,45 +63,41 @@ Hello! I'm **Aditya Sharma**, a passionate **Full-Stack Developer** blending **t
 
 ### 🌟 GitHub Contribution Stats
 
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=42aditya31&metric=totalContributions" alt="Total Contributions" width="250" style="animation: fadeIn 2s ease-out;"/>
-</p>
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=42aditya31&metric=streak" alt="Current Streak" width="250" style="animation: fadeInUp 2.5s ease-in;"/>
-  <img src="https://github-contribution-stats.vercel.app/api/?username=42aditya31&metric=longestStreak" alt="Longest Streak" width="250" style="animation: fadeInUp 3s ease-in;"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42aditya31&layout=compact" alt="Most Used Language" width="250" style="animation: pulse 2s infinite;"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=42aditya31&color=blue" alt="Profile Views" width="250" style="animation: bounceIn 2s ease-out;"/>
+<table style="border:none; background-color:#1c1c1c; color:white; width:80%; border-radius:10px;">
+  <tr style="border:none;">
+    <td align="center" width="33%">
+      <h2 style="color:orange; margin:5px;">
+        <img src="https://github-contribution-stats.vercel.app/api/?username=42aditya31&metric=totalContributions&theme=dark&show_icons=true&hide_border=true" alt="Total Contributions" />
+      </h2>
+      <p style="margin:0; color:lightgray;">Total Contributions</p>
+    </td>
+    <td align="center" width="33%">
+      <h2 style="color:orange; margin:5px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=42aditya31&theme=dark&hide_border=true" alt="Current Streak" />
+      </h2>
+      <p style="margin:0; color:lightgray;">Current Streak</p>
+    </td>
+    <td align="center" width="33%">
+      <h2 style="color:orange; margin:5px;">
+        <img src="https://github-contribution-stats.vercel.app/api/?username=42aditya31&metric=longestStreak&theme=dark&show_icons=true&hide_border=true" alt="Longest Streak" />
+      </h2>
+      <p style="margin:0; color:lightgray;">Longest Streak</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center" style="margin-top:20px; background-color:#1c1c1c; border-radius:10px; padding:10px;">
+  <h3 style="color:orange;">Most Used Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42aditya31&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+</div>
+
+<p align="center" style="margin-top:10px;">
+  <img src="https://komarev.com/ghpvc/?username=42aditya31&color=orange" alt="Profile Views" />
 </p>
 
 </div>
-
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-@keyframes fadeInUp {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-@keyframes pulse {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-}
-
-@keyframes bounceIn {
-  0%, 100% { transform: scale(0.9); }
-  50% { transform: scale(1.05); }
-}
-</style>
-
-
 
 ### 🤝 Let’s Connect!
 
