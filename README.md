@@ -49,13 +49,12 @@ Hello! I'm **Aditya Sharma**, a passionate **Full-Stack Developer** blending **t
 ### 🌟 GitHub Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=42aditya31&count_private=true&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=42aditya31&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=42aditya31&count_private=true&show_icons=true&theme=dark&hide_border=true" alt="GitHub Contribution Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42aditya31&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
 </p>
-
 ---
 
 🌌 **Dare to Dream Bigger?**  
