@@ -76,7 +76,7 @@ Here are a few standout projects I’ve worked on:
 ### 📊 GitHub at a Glance  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=42aditya31&theme=tokyonight&hide_border=true&ring=f4acb7&fire=f4acb7" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=42aditya31&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=42aditya31&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=f4acb7&icon_color=457b9d" alt="GitHub Contribution Stats" />
   <br>
