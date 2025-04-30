@@ -2,110 +2,108 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="Banner" width="800"/>
 </div>
 
-<h1 align="center" style="color:#f4acb7;">🌟 Welcome to Aditya Sharma's GitHub 🌟</h1>
-<h3 align="center" style="color:#457b9d;">Full-Stack Developer | AI Explorer | SIH2024 Waitlisted | Hackathon Finalist</h3>
+<h1 align="center" style="color:#f4acb7;">🌟 Aditya Sharma on GitHub 🌟</h1>
+<h3 align="center" style="color:#457b9d;">Full-Stack Developer | React & Next.js Specialist | AI/ML Enthusiast | Hackathon Finalist</h3>
+
+<p align="center">
+  📧 <strong>sharmaaditya4231@gmail.com</strong> |
+  📞 <strong>+91-9081472372</strong> <br/>
+  🔗 <a href="https://linkedin.com/in/aditya-sharma-b20732272">LinkedIn</a> |
+  🔗 <a href="https://github.com/42aditya31">GitHub</a>
+</p>
 
 ---
 
 <img align="right" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" width="300" alt="Coding GIF" />
 
-### 🌸 About Me  
+### 💡 About Me
 
-Hey there! 👋  
-I’m **Aditya Sharma**, a passionate **Full-Stack Developer** dedicated to blending **technology** with **creativity** to create solutions that inspire and empower. With expertise in **JavaScript, ReactJS, Next.js, and Java**, I am also exploring the endless possibilities of **Machine Learning and AI** to shape the future of tech. 🚀  
+Hi there! I'm **Aditya Sharma**, a passionate **Full-Stack Developer** combining creativity, clean code, and modern technologies to craft scalable, user-focused applications.
 
-✨ **What defines me?**  
-- A proud **Hackathon Leader** with innovative solutions presented at various competitions.  
-- Thrilled to be **waitlisted for SIH2024**, India's premier innovation platform.  
-- A lover of collaboration, creative problem-solving, and building systems that truly make a difference.  
+- 🔭 Exploring AI/ML integrations with frontend ecosystems
+- 🚀 **Hackathon Finalist** at Hacker House Goa
+- 🎯 Waitlisted for **SIH2024**, India’s top innovation platform
+- 👨‍💻 Contributor to freelance & government tech projects
 
 ---
 
-### 🎨 My Skill Palette  
+### 🛠️ Tech Stack
 
 <div align="center">
 
-| **Programming Languages** | **Frameworks & Libraries** | **Tools & Technologies** | **Soft Skills** |
-|----------------------------|----------------------------|---------------------------|------------------|
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-f4acb7?style=for-the-badge&logo=javascript&logoColor=white) ![C++](https://img.shields.io/badge/-C++-457b9d?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-457b9d?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-f4acb7?style=for-the-badge&logo=java&logoColor=white) | ![React](https://img.shields.io/badge/-React-f4acb7?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-457b9d?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-f4acb7?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/-GSAP-457b9d?style=for-the-badge&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-f4acb7?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-457b9d?style=for-the-badge&logo=mongodb&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-f4acb7?style=for-the-badge&logo=visual-studio-code&logoColor=white) | 🤝 Teamwork <br> 🎯 Leadership <br> 💡 Problem Solving <br> 🌍 Collaboration |
+| **Languages** | **Frontend** | **Backend** | **Tools** |
+|---------------|--------------|--------------|-----------|
+| JavaScript • TypeScript • Python • Java • C++ | React 19 • Next.js 15 • Redux • Tailwind • Shadcn UI | Node.js • Express • Supabase • Prisma • PostgreSQL • MongoDB | Git • GitHub • Netlify • Vercel • Figma • Adobe XD |
 
 </div>
 
 ---
 
-### 🚀 Projects Worth Exploring  
+### 🚀 Noteworthy Projects
 
-Here are a few standout projects I’ve worked on:  
-
-1. **🎬 Netflix Clone:**  
-   - A video streaming platform inspired by Netflix.  
-   - **Tech Stack:** React, Firebase, TMDB API.  
-   - 🌟 [Explore Project](https://github.com/42aditya31/Netflix-Clone)  
-
-2. **🗣️ Cherry (AI-Powered Assistant):**  
-   - Voice-activated smart assistant for productivity enthusiasts.  
-   - 🌟 [Check it Out](https://github.com/42aditya31/Cherry)  
-
-3. **🛒 Shopsy (Decentralized E-commerce):**  
-   - Blockchain-driven platform ensuring secure, transparent transactions.  
-   - 🌟 [View Repository](https://github.com/42aditya31/Shopsy)  
-
-4. **🍴 Foodie Fiesta:**  
-   - An online food-ordering application that ensures hassle-free dining.  
-   - 🌟 [Discover Here](https://github.com/42aditya31/FoodieFiesta)  
-
-5. **🌿 Prana-Flow:**  
-   - A habit-building platform inspired by Indian cultural mindfulness.  
-   - 🌟 [View Project](https://github.com/42aditya31/Prana-Flow)  
-
-6. **🎵 MusicMaster:**  
-   - A platform for music enthusiasts to explore, learn, and track progress.  
-   - 🌟 [Visit Repo](https://github.com/42aditya31/MusicMaster)  
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| [🎬 Netflix Clone](https://github.com/42aditya31/Netflix-Clone) | React • Firebase • TMDB API | A responsive video streaming platform |
+| [🗣️ Cherry](https://github.com/42aditya31/Cherry) | AI Assistant | Voice-activated productivity tool |
+| [🛒 Shopsy](https://github.com/42aditya31/Shopsy) | Web3 • MetaMask • React | Decentralized E-Commerce platform |
+| [🍴 Foodie Fiesta](https://github.com/42aditya31/FoodieFiesta) | React • Firebase | A seamless online food-ordering platform |
+| [🌿 Prana-Flow](https://github.com/42aditya31/Prana-Flow) | AI • ML • Next.js • MongoDB | AI habit-builder inspired by Indian mindfulness |
+| [🎵 MusicMaster](https://github.com/42aditya31/MusicMaster-) | Next.js • Acertinity UI | Music learning platform with progress tracking |
+| [💼 CashDash](https://github.com/42aditya31/CashDash) | React • Next.js • Supabase | AI-driven finance dashboard with Clerk Auth |
+| [🏛️ Suvidha Setu](https://github.com/42aditya31/Suvidha-setu) | React • Node.js • PostgreSQL | Govt. dashboard for department collaboration |
 
 ---
 
-### 🌟 Hackathons & Achievements  
+### 🧠 Hackathons & Awards
 
-- 🏆 **Finalist:** Hacker House Goa – Showcased my innovation among top tech minds.  
-- 🚀 **SIH2024 Waitlisted:** Honored to be recognized for this prestigious innovation platform.  
-- 🛠️ **Hackathon Leader:** Led teams to success in multiple competitions.  
-- 🌍 **Freelance Projects:** Delivered high-quality, scalable solutions for clients worldwide.  
+- 🏆 **Finalist – Hacker House Goa**: Presented decentralized e-commerce (Shopsy)
+- 🚀 **SIH Finalist**: Built Ganga – pollution monitoring dashboard using IoT and satellite data
+- 🛠️ Developed **Garden SDK**: Blockchain SDK for token swap integration
+- 👨‍💻 Leading frontend for a **Govt. dashboard project (Suvidha Setu)**
 
 ---
 
-### 📊 GitHub at a Glance  
+### 📈 GitHub Insights
 
 <div align="center">
-  
-  <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=42aditya31&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  </a>
-  
-  <br><br>
-  
-  <!-- GitHub Stats -->
-  <a href="https://github.com/42aditya31">
-    <img src="https://github-readme-stats.vercel.app/api?username=42aditya31&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=f4acb7&icon_color=457b9d" alt="GitHub Stats" />
-  </a>
-  
-  <br><br>
-  
-  <!-- Top Languages -->
-  <a href="https://github.com/42aditya31">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42aditya31&layout=compact&theme=tokyonight&hide_border=true&title_color=457b9d" alt="Top Languages" />
-  </a>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=42aditya31&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</a>
+<br><br>
+<a href="https://github.com/42aditya31">
+  <img src="https://github-readme-stats.vercel.app/api?username=42aditya31&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=f4acb7&icon_color=457b9d" alt="GitHub Stats"/>
+</a>
+<br><br>
+<a href="https://github.com/42aditya31">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42aditya31&layout=compact&theme=tokyonight&hide_border=true&title_color=457b9d" alt="Top Languages"/>
+</a>
 
 </div>
 
 ---
 
-### 💌 Let’s Build the Future Together  
+### 🎓 Education
 
-Got an idea? Let’s make it a reality! ✨ Whether it’s collaborating on cutting-edge projects, sharing knowledge, or brainstorming the next big thing, I’m just a message away.  
+**B.Tech – Computer Engineering (2022–2026)**  
+LDRP Institute of Technology and Research
 
-📬 **Reach Out to Me:**  
-- 🌐 [LinkedIn](https://linkedin.com/in/aditya-sharma-b20732272)  
+---
+
+### 🧩 Beyond the Code
+
+- 🌐 Open-Source Contributor
+- 🤝 Async Team Player
+- 🎯 Clean Code Advocate
+- 🎨 Design-Driven Developer
+
+---
+
+### 📬 Let’s Collaborate!
+
+Whether you're looking to build the next big thing or jam on side projects — I’d love to connect.
+
 - 📧 **Email:** aditya.sharma4231.in@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/aditya-sharma-b20732272)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=42aditya31&color=f4acb7)
