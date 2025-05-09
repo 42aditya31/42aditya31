@@ -63,23 +63,63 @@ Hi there! I'm **Aditya Sharma**, a passionate **Full-Stack Developer** combining
 
 ---
 
-### 📈 GitHub Insights
+<!-- GH-TERMINAL: Hacker Style GitHub Dashboard -->
 
-<div align="center">
+<div align="center" style="background-color:#0d1117; padding: 30px; border-radius: 20px;">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=42aditya31&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</a>
-<br><br>
-<a href="https://github.com/42aditya31">
-  <img src="https://github-readme-stats.vercel.app/api?username=42aditya31&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=f4acb7&icon_color=457b9d" alt="GitHub Stats"/>
-</a>
-<br><br>
-<a href="https://github.com/42aditya31">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42aditya31&layout=compact&theme=tokyonight&hide_border=true&title_color=457b9d" alt="Top Languages"/>
-</a>
+<h2 style="color:#00ffcc; font-family: 'Fira Code', monospace;">🧬 INIT: $ fetch --user=42aditya31</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ffff&center=true&vCenter=true&width=600&lines=Analyzing+Cyber-Stats...;Injecting+Dark+Code...;Loading+GitHub+Modules..." alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- HACKER STREAK -->
+<img src="https://streak-stats.demolab.com?user=42aditya31&theme=matrix&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="90%" alt="🔥 GitHub Streak Matrix Theme"/>
+
+<br/><br/>
+
+<!-- STATS AND LANGUAGES -->
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=42aditya31&count_private=true&show_icons=true&theme=radical&hide_border=true&border_radius=10&title_color=00ffff&icon_color=00ffff" width="400" />
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42aditya31&layout=compact&theme=radical&hide_border=true&border_radius=10&title_color=00ffff" width="400" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROFILE SUMMARY -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=42aditya31&theme=tokyonight" width="90%" alt="📊 Summary Graph"/>
+
+<br/><br/>
+
+<!-- HACKER-STYLE BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/👨‍💻%20Hacking-Terminal%20Active-00FFFF?style=for-the-badge&logo=gnometerminal" />
+  <img src="https://img.shields.io/badge/🧠%20Machine%20Learning-Enabled-007FFF?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/🛰️%20Mission-Control-Fully%20Operational-1E90FF?style=for-the-badge&logo=github" />
+</p>
+
+<!-- ASCII Footer -->
+<pre style="color:#00ffcc; font-family:'Fira Code', monospace; font-size:14px;">
+┌─────────────────────────────────────────────┐
+│  SYSTEM LOG: 📡 Accessing Developer Network  │
+│  USER ID  : 42aditya31                       │
+│  STATUS   : ONLINE 💡 READY TO DEPLOY        │
+└─────────────────────────────────────────────┘
+</pre>
+
+<!-- VISITOR COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=42aditya31&label=👁️+Intrusions+Logged&color=00FFFF&style=flat-square" />
 
 </div>
+
+
+
 
 ---
 
