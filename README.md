@@ -97,12 +97,7 @@ Hi there! I'm **Aditya Sharma**, a passionate **Full-Stack Developer** combining
 
 <br/><br/>
 
-<!-- HACKER-STYLE BADGES -->
-<p>
-  <img src="https://img.shields.io/badge/👨‍💻%20Hacking-Terminal%20Active-00FFFF?style=for-the-badge&logo=gnometerminal" />
-  <img src="https://img.shields.io/badge/🧠%20Machine%20Learning-Enabled-007FFF?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/🛰️%20Mission-Control-Fully%20Operational-1E90FF?style=for-the-badge&logo=github" />
-</p>
+
 
 <!-- ASCII Footer -->
 <pre style="color:#00ffcc; font-family:'Fira Code', monospace; font-size:14px;">
