@@ -2,20 +2,17 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="Banner" width="800"/>
 </div>
 
-
 <h1 align="center" style="color:#f4acb7;">🌟 Aditya Sharma on GitHub 🌟</h1>
 <h3 align="center" style="color:#457b9d;">Full-Stack Developer | React & Next.js Specialist | AI/ML Enthusiast | Hackathon Finalist</h3>
 
 <p align="center">
-  📧 <strong>sharmaaditya4231@gmail.com</strong> |
+  📧 <strong>sharmaaditya4231@gmail.com</strong> &nbsp;|&nbsp;
   📞 <strong>+91-9081472372</strong> <br/>
-  🔗 <a href="https://linkedin.com/in/aditya-sharma-b20732272">LinkedIn</a> |
+  🔗 <a href="https://linkedin.com/in/aditya-sharma-b20732272">LinkedIn</a> &nbsp;|&nbsp;
   🔗 <a href="https://github.com/42aditya31">GitHub</a>
 </p>
 
-
 ---
-
 <img align="right" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" width="300" alt="Coding GIF" />
 
 ### 💡 About Me
@@ -28,44 +25,59 @@ Hi there! I'm **Aditya Sharma**, a passionate **Full-Stack Developer** combining
 - 👨‍💻 Contributor to freelance & government tech projects
 
 ---
-
-### 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
-| **Languages** | **Frontend** | **Backend** | **Tools** |
-|---------------|--------------|--------------|-----------|
+| Languages | Frontend | Backend | Tools |
+|-----------|----------|---------|-------|
 | JavaScript • TypeScript • Python • Java • C++ | React 19 • Next.js 15 • Redux • Tailwind • Shadcn UI | Node.js • Express • Supabase • Prisma • PostgreSQL • MongoDB | Git • GitHub • Netlify • Vercel • Figma • Adobe XD |
 
 </div>
 
 ---
 
-### 🚀 Noteworthy Projects
+<h2 align="center">🚀 Noteworthy Projects</h2>
+
+<div align="center">
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | [🎬 Netflix Clone](https://github.com/42aditya31/Netflix-Clone) | React • Firebase • TMDB API | A responsive video streaming platform |
 | [🗣️ Cherry](https://github.com/42aditya31/Cherry) | AI Assistant | Voice-activated productivity tool |
 | [🛒 Shopsy](https://github.com/42aditya31/Shopsy) | Web3 • MetaMask • React | Decentralized E-Commerce platform |
-| [🍴 Foodie Fiesta](https://github.com/42aditya31/FoodieFiesta) | React • Firebase | A seamless online food-ordering platform |
-| [🌿 Prana-Flow](https://github.com/42aditya31/Prana-Flow) | AI • ML • Next.js • MongoDB | AI habit-builder inspired by Indian mindfulness |
-| [🎵 MusicMaster](https://github.com/42aditya31/MusicMaster-) | Next.js • Acertinity UI | Music learning platform with progress tracking |
-| [💼 CashDash](https://github.com/42aditya31/CashDash) | React • Next.js • Supabase | AI-driven finance dashboard with Clerk Auth |
-| [🏛️ Suvidha Setu](https://github.com/42aditya31/Suvidha-setu) | React • Node.js • PostgreSQL | Govt. dashboard for department collaboration |
+| [🍴 Foodie Fiesta](https://github.com/42aditya31/FoodieFiesta) | React • Firebase | Online food ordering made seamless |
+| [🌿 Prana-Flow](https://github.com/42aditya31/Prana-Flow) | AI • ML • Next.js • MongoDB | Habit builder inspired by Indian mindfulness |
+| [🎵 MusicMaster](https://github.com/42aditya31/MusicMaster-) | Next.js • Acertinity UI | Music learning with trackable progress |
+| [💼 CashDash](https://github.com/42aditya31/CashDash) | React • Next.js • Supabase | AI-driven finance dashboard |
+| [🏛️ Suvidha Setu](https://github.com/42aditya31/Suvidha-setu) | React • Node.js • PostgreSQL | Govt. dashboard for collaboration |
+
+</div>
 
 ---
 
-### 🧠 Hackathons & Awards
+<h2 align="center">🏆 GitHub Achievements & Stats</h2>
 
-- 🏆 **Finalist – Hacker House Goa**: Presented decentralized e-commerce (Shopsy)
-- 🚀 **SIH Finalist**: Built Ganga – pollution monitoring dashboard using IoT and satellite data
-- 🛠️ Developed **Garden SDK**: Blockchain SDK for token swap integration
-- 👨‍💻 Leading frontend for a **Govt. dashboard project (Suvidha Setu)**
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=42aditya31&theme=onedark&no-frame=true&title=Commits,Repositories,Followers,PullRequest,Issues,Stars&margin-w=10" />
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=42aditya31&theme=github-compact&area=true&hide_border=true" />
+
+</div>
 
 ---
 
-<!-- GH-TERMINAL: Hacker Style GitHub Dashboard -->
+<h2 align="center">🧠 Hackathons & Awards</h2>
+
+<p align="center">
+🏆 Finalist – <strong>Hacker House Goa</strong>: Built Shopsy, a decentralized e-commerce platform <br/>
+🚀 Finalist – <strong>SIH2024</strong>: Built Ganga – pollution monitoring dashboard with IoT & satellite data <br/>
+🛠️ Created <strong>Garden SDK</strong>: Blockchain SDK for token swap integration <br/>
+👨‍💻 Leading frontend for <strong>Govt. project – Suvidha Setu</strong>
+</p>
+
+---
 
 <div align="center" style="background-color:#0d1117; padding: 30px; border-radius: 20px;">
 
@@ -75,12 +87,10 @@ Hi there! I'm **Aditya Sharma**, a passionate **Full-Stack Developer** combining
 
 <br/><br/>
 
-<!-- HACKER STREAK -->
-<img src="https://streak-stats.demolab.com?user=42aditya31&theme=matrix&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="90%" alt="🔥 GitHub Streak Matrix Theme"/>
+<img src="https://streak-stats.demolab.com?user=42aditya31&theme=matrix&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="90%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- STATS AND LANGUAGES -->
 <table>
 <tr>
 <td>
@@ -92,55 +102,83 @@ Hi there! I'm **Aditya Sharma**, a passionate **Full-Stack Developer** combining
 </tr>
 </table>
 
-<br/>
+</div>
 
-<!-- PROFILE SUMMARY -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=42aditya31&theme=tokyonight" width="90%" alt="📊 Summary Graph"/>
+---
 
-<br/><br/>
+<!-- 🎓 Enhanced Education Section -->
+<h2 align="center">🎓 My Academic Journey</h2>
 
+<div align="center">
+  <img src="https://t4.ftcdn.net/jpg/04/22/24/49/360_F_422244902_ulvbCnVfyp7Wo0qbX4cntEIaOR4n8VVt.jpg" width="600" alt="Education Banner" style="border-radius: 10px; margin-bottom: 20px;" />
+</div>
 
+<p align="center">
+  📚 <strong>B.Tech – Computer Engineering</strong> (2022–2026)<br />
+  🏫 <b>LDRP Institute of Technology and Research, Gandhinagar</b>
+</p>
 
-<!-- ASCII Footer -->
-<pre style="color:#00ffcc; font-family:'Fira Code', monospace; font-size:14px;">
-┌─────────────────────────────────────────────┐
-│  SYSTEM LOG: 📡 Accessing Developer Network  │
-│  USER ID  : 42aditya31                       │
-│  STATUS   : ONLINE 💡 READY TO DEPLOY        │
-└─────────────────────────────────────────────┘
-</pre>
+<p align="center">
+  <i>“Not just learning to code — learning to think, build, and innovate.”</i>
+</p>
 
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=42aditya31&label=👁️+Intrusions+Logged&color=00FFFF&style=flat-square" />
+<div align="center">
+
+<table>
+  <tr>
+    <td>🎯</td>
+    <td><b>Specializations:</b> Artificial Intelligence, Web Development, System Design</td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><b>Core Courses:</b> Data Structures, DBMS, OS, Machine Learning, Software Engineering</td>
+  </tr>
+  <tr>
+    <td>🏅</td>
+    <td><b>Achievements:</b> Hackathon Finalist • SIH Shortlisted • Research-focused mini projects</td>
+  </tr>
+  <tr>
+    <td>🛠️</td>
+    <td><b>Activities:</b> Techfest Organizer • AI Workshops • Freelance Projects alongside academics</td>
+  </tr>
+</table>
 
 </div>
 
+---
 
+<h2 align="center">🌟 Beyond the Code – Where Logic Meets Magic</h2>
 
+<p align="center"><i>"Great code is poetry in motion, and design is its voice."</i></p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/source-code.png" width="28"/> <strong>Open-Source Artisan</strong> — Building with heart, not just syntax <br/>
+  <img src="https://img.icons8.com/color/48/clock--v1.png" width="28"/> <strong>Async Alchemist</strong> — Time zones don’t scare me, teamwork fuels me <br/>
+  <img src="https://img.icons8.com/color/48/code-file.png" width="28"/> <strong>Pixel-Perfect Purist</strong> — Clean code. Clean design. Clean mind. <br/>
+  <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="28"/> <strong>Frontend Sorcerer</strong> — Turning HTML, CSS, and JavaScript into delightful spells
+</p>
 
 ---
 
-### 🎓 Education
+<h2 align="center">📬 Let’s Collaborate</h2>
 
-**B.Tech – Computer Engineering (2022–2026)**  
-LDRP Institute of Technology and Research
+<p align="center">
+  Whether you're building the next big thing or brainstorming side-projects —<br/>
+  <strong>Let’s connect, create, and code something unforgettable.</strong> 🚀
+</p>
+
+<p align="center">
+  <a href="mailto:aditya.sharma4231.in@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aditya.sharma4231.in@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/aditya-sharma-b20732272" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Sharma-0e76a8?style=flat-square&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=42aditya31&style=flat-square&color=brightgreen" alt="Visitor Badge"/>
+</p>
 
 ---
-
-### 🧩 Beyond the Code
-
-- 🌐 Open-Source Contributor
-- 🤝 Async Team Player
-- 🎯 Clean Code Advocate
-- 🎨 Design-Driven Developer
-
----
-
-### 📬 Let’s Collaborate!
-
-Whether you're looking to build the next big thing or jam on side projects — I’d love to connect.
-
-- 📧 **Email:** aditya.sharma4231.in@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/aditya-sharma-b20732272)
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=42aditya31&color=f4acb7)
