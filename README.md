@@ -5,12 +5,103 @@
 <h1 align="center" style="color:#007bff;">🌐 Aditya Sharma on GitHub 🌐</h1>
 <h3 align="center" style="color:#5bc0de;">Full-Stack Developer | React & Next.js Specialist | AI/ML Enthusiast | Hackathon Finalist</h3>
 
-<p align="center">
-  📧 <strong>sharmaaditya4231@gmail.com</strong> &nbsp;|&nbsp;
-  📞 <strong>+91-9081472372</strong> <br/>
-  🔗 <a href="https://linkedin.com/in/aditya-sharma-b20732272" style="color:#007bff;">LinkedIn</a> &nbsp;|&nbsp;
-  🔗 <a href="https://github.com/42aditya31" style="color:#007bff;">GitHub</a>
-</p>
+<!-- Professional Contact Section with Visual Appeal -->
+<div align="center">
+
+  <br/>
+  <!-- Stylized Contact Cards -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/📧_Email-sharmaaditya4231@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c14438" alt="Email Badge"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/📞_Phone-+91--9081472372-green?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Phone Badge"/>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <!-- Professional Social Links Grid -->
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <a href="https://www.linkedin.com/in/aditya-sharma-b20732272/">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+        <br/>
+        <sub><b>Professional Network</b></sub>
+      </td>
+      <td align="center" width="200">
+        <a href="https://github.com/42aditya31">
+          <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+        <br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+        <br/>
+        <sub><b>Code Repository</b></sub>
+      </td>
+      <td align="center" width="200">
+        <a href="https://gist.github.com/42aditya31">
+          <img src="https://img.shields.io/badge/Gist-Explore-f14e32?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Gist"/>
+        </a>
+        <br/>
+        <img src="https://github.githubassets.com/images/modules/gists/gist-og-image.png" alt="Gist" width="40" height="40"/>
+        <br/>
+        <sub><b>Code Snippets</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <a href="https://hashnode.com/@42aditya31">
+          <img src="https://img.shields.io/badge/Hashnode-Read-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+        </a>
+        <br/>
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="Hashnode" width="40" height="40"/>
+        <br/>
+        <sub><b>Tech Articles</b></sub>
+      </td>
+      <td align="center" width="200">
+        <a href="https://sharma-folio.vercel.app/">
+          <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+        </a>
+        <br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Portfolio" width="40" height="40"/>
+        <br/>
+        <sub><b>My Digital Showcase</b></sub>
+      </td>
+      <td align="center" width="200">
+        <a href="mailto:sharmaaditya4231@gmail.com">
+          <img src="https://img.shields.io/badge/Email_Me-Direct-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Direct"/>
+        </a>
+        <br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+        <br/>
+        <sub><b>Quick Contact</b></sub>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <!-- Interactive Connect Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=🤝%20Let's%20Collaborate%20🤝&fontSize=24&fontColor=fff&animation=twinkling" width="100%"/>
+  <!-- Contact Stats -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Response_Time-Within_24h-brightgreen?style=flat-square&logo=clock&logoColor=white" alt="Response Time"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Availability-Open_to_Work-blue?style=flat-square&logo=briefcase&logoColor=white" alt="Availability"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Time_Zone-GMT+5:30-orange?style=flat-square&logo=world&logoColor=white" alt="Timezone"/>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
