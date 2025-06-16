@@ -56,7 +56,7 @@
     <tr>
       <!-- Hashnode -->
       <td align="center" width="200">
-        <a href="https://hashnode.com/@42aditya31">
+        <a href="https://hashnode.com/@aditya4231">
           <img src="https://img.shields.io/badge/Hashnode-Read-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
         </a><br/>
         <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" width="40" height="40"/><br/>
