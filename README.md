@@ -3,7 +3,7 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="Banner" width="800"/>
 </div>
 
-<h1 align="center" style="color:#007bff;">Aditya Sharma on GitHub</h1>
+<h1 align="center" style="color:#007bff;">Aditya Sharma's Github </h1>
 <h3 align="center" style="color:#5bc0de;">
   Full-Stack Developer • React & Next.js Specialist • AI/ML Enthusiast • Hackathon Finalist
 </h3>
