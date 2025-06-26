@@ -187,7 +187,6 @@ I believe in **clean code**, **impactful design**, and **human-first tech**.
 </tr>
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=42aditya31&theme=github-dark-blue&hide_border=true&border_radius=10)
 
 </div>
 
