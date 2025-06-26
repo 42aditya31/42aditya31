@@ -157,36 +157,35 @@ I believe in **clean code**, **impactful design**, and **human-first tech**.
 - 👨‍💻 Core dev – *Suvidha Setu* (Govt. Dashboard)
 
 ---
-
-### 📊 GitHub Insights
-
+<!-- 📊 GitHub Insights -->
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=42aditya31&theme=algolia&no-frame=true&title=Commits,Repositories,Followers,PullRequest,Issues,Stars)
-<br/>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=42aditya31&theme=github-compact&area=true&hide_border=true)
+  <!-- Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=42aditya31&theme=algolia&no-frame=true&title=Commits,Repositories,Followers,PullRequest,Issues,Stars" />
 
-</div>
+  <br/>
 
----
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=42aditya31&theme=github-compact&area=true&hide_border=true" />
 
-### 🧬 INIT: $ fetch --user=42aditya31
+  <br/>
 
-<div align="center">
+  <!-- GitHub Stats and Top Languages -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=42aditya31&count_private=true&show_icons=true&theme=blueberry&hide_border=true" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42aditya31&layout=compact&theme=blueberry&hide_border=true" width="400" />
+      </td>
+    </tr>
+  </table>
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5bc0de&center=true&vCenter=true&width=600&lines=Loading+Profile...;Injecting+Code...;Rendering+Contributions...)
+  <br/>
 
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=42aditya31&count_private=true&show_icons=true&theme=blueberry&hide_border=true" width="400" />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42aditya31&layout=compact&theme=blueberry&hide_border=true" width="400" />
-</td>
-</tr>
-</table>
-
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=42aditya31&theme=blueberry&hide_border=true&border_radius=10" />
 
 </div>
 
